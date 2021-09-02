@@ -19,7 +19,7 @@ const MessageItem = ({ message }) => {
         <ProfileInfoBtnModal
           profile={author}
           appearance="link"
-          className="p=0 ml-1 text-black"
+          className="p-0 ml-1 text-black"
         />
 
         <TimeAgo
